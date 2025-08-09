@@ -236,7 +236,7 @@ const Index = () => {
               <p className="text-gray-700 mb-6 leading-relaxed">展示用户评分记录过的餐厅位置</p>
               <div className="rounded-lg overflow-hidden shadow-md">
                 <Image 
-                  src="/images/原型-首页.png" 
+                  src="./images/原型-首页.png" 
                   alt="首页原型设计" 
                   width={400}
                   height={300}
@@ -255,7 +255,7 @@ const Index = () => {
               <p className="text-gray-700 mb-6 leading-relaxed">根据关键字查找餐厅</p>
               <div className="rounded-lg overflow-hidden shadow-md">
                 <Image 
-                  src="/images/原型-搜索页.png" 
+                  src="./images/原型-搜索页.png" 
                   alt="搜索页原型设计" 
                   width={400}
                   height={300}
@@ -274,7 +274,7 @@ const Index = () => {
               <p className="text-gray-700 mb-6 leading-relaxed">餐厅信息 + 用户与好友的评分</p>
               <div className="rounded-lg overflow-hidden shadow-md">
                 <Image 
-                  src="/images/原型-详情页.png" 
+                  src="./images/原型-详情页.png" 
                   alt="详情页原型设计" 
                   width={400}
                   height={300}
@@ -426,7 +426,7 @@ const Index = () => {
               <p className="text-gray-700 mb-6 leading-relaxed">用户注册、登录及身份验证系统</p>
               <div className="rounded-lg overflow-hidden shadow-md">
                 <Image 
-                  src="/images/注册登录页.png" 
+                  src="./images/注册登录页.png" 
                   alt="注册登录界面" 
                   width={800}
                   height={400}
@@ -446,7 +446,7 @@ const Index = () => {
               <p className="text-gray-700 mb-6 leading-relaxed">登陆后的主界面，在地图和信息面板展示已评分餐厅，以及其他基础功能</p>
               <div className="rounded-lg overflow-hidden shadow-md">
                 <Image 
-                  src="/images/首页.png" 
+                  src="./images/首页.png" 
                   alt="首页界面" 
                   width={800}
                   height={400}
@@ -466,7 +466,7 @@ const Index = () => {
               <p className="text-gray-700 mb-6 leading-relaxed">根据关键词查找餐厅，在地图和信息面板同时显示</p>
               <div className="rounded-lg overflow-hidden shadow-md">
                 <Image 
-                  src="/images/搜索功能.png" 
+                  src="./images/搜索功能.png" 
                   alt="搜索功能界面" 
                   width={800}
                   height={400}
@@ -486,7 +486,7 @@ const Index = () => {
               <p className="text-gray-700 mb-6 leading-relaxed">通过点选餐厅，进行四级喜爱度评分，地图和信息面板同步显示评分记录</p>
               <div className="rounded-lg overflow-hidden shadow-md">
                 <Image 
-                  src="/images/评分功能.png" 
+                  src="./images/评分功能.png" 
                   alt="评分功能界面" 
                   width={800}
                   height={400}
@@ -506,7 +506,7 @@ const Index = () => {
               <p className="text-gray-700 mb-6 leading-relaxed">集成评分统计、餐厅列表、餐厅详情等信息</p>
               <div className="rounded-lg overflow-hidden shadow-md">
                 <Image 
-                  src="/images/信息面板.png" 
+                  src="./images/信息面板.png" 
                   alt="信息面板界面" 
                   width={800}
                   height={400}
@@ -526,7 +526,7 @@ const Index = () => {
               <p className="text-gray-700 mb-6 leading-relaxed">查看个人信息，并通过唯一ID进行好友添加、删除等操作</p>
               <div className="rounded-lg overflow-hidden shadow-md">
                 <Image 
-                  src="/images/个人信息与好友管理.png" 
+                  src="./images/个人信息与好友管理.png" 
                   alt="个人信息与好友管理界面" 
                   width={800}
                   height={400}
